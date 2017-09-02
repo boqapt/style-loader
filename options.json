@@ -12,7 +12,7 @@
       "type": "string"
     },
     "insertInto": {
-      "type": "string"
+      "type": "array"
     },
     "singleton": {
       "type": "boolean"
